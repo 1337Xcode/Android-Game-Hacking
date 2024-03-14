@@ -23,8 +23,8 @@ The content provided in this repository is for educational and research purposes
 
 - [ ] Add more mod menu templates.
 - [ ] Include additional hooking libraries and templates.
-- [ ] Include repositories with specific game hacking sources.
 - [ ] Add list of dumping tools for UE4 and Unity engines to [Categories](#Categories).
+- [ ] Include repositories with specific game hacking sources.
 - [ ] Add detailed guides to game modding.
 
 ## Categories
