@@ -174,3 +174,5 @@ We welcome contributions from the community to enhance and expand this repositor
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+<p align="left"><a href="https://github.com/1337Xcode/Android-Game-Hacking#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
